@@ -1,0 +1,25 @@
+.image1 {
+  height: 500px;
+  width: 500px;
+  display: flex;
+}
+
+
+.image-wrapper {
+  border: 5px solid blue;
+  overflow: hidden;
+  flex: 1 0 100%;
+}
+
+.image {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+
+.image2 {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+}
